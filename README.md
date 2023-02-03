@@ -1,5 +1,5 @@
 ## Heart Disease Expert System
-This is an expert system that diagnosis heart disease problem. It was developed in PHP but I also converted it into an APK Android file. The system can be used and run on android phones. Download APK File here: [Download](https://jaywebtech.com.ng/Heart Diagnosis_1_1.0.apk)]
+This is an expert system that diagnosis heart disease problem. It was developed in PHP but I also converted it into an APK Android file. The system can be used and run on android phones. Download APK File here: [Download]("https://jaywebtech.com.ng/Heart Diagnosis_1_1.0.apk")]
 
 ### Do well to drop a star 🌟 if you love it
 
